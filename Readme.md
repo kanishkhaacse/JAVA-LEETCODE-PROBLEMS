@@ -35,18 +35,6 @@ This repository includes solutions across a variety of **topics** and **techniqu
 - **Sorting and Searching**: QuickSort, MergeSort, Binary Search
 - **Mathematics**: Prime Numbers, Modular Arithmetic, Combinatorics
 
----
-
-## 📈 Progress Tracker
-
-This section tracks my progress daily, with a summary of problems solved and notable concepts learned:
-
-| Date       | Problems Solved                                   | Concepts Learned                     |
-|------------|---------------------------------------------------|---------------------------------------|
-| 2025-01-27 | 1. LeetCode 189 - Rotate Array <br> 2. LeetCode 55 - Jump Game <br> 3. LeetCode 75 - Sort Colors <br> 4. LeetCode 217 - Contains Duplicate | 1. Arrays <br> 2. Greedy Algorithm <br> 3. Sorting <br> 4. HashSets |
-| 2025-01-28 | 1. LeetCode 26 - Remove Duplicates from Sorted Array <br> 2. LeetCode 27 - Remove Element <br> 3. LeetCode 34 - Find First and Last Position of Element in Sorted Array <br> 4. LeetCode 905 - Sort Array By Parity <br> 5. LeetCode 912 - Sort an Array <br> 6. LeetCode 162 - Find Peak Element <br> 7. LeetCode 169 - Majority Element | 1. Two Pointers <br> 2. Binary Search <br> 3. Sorting <br> 4. Arrays |
-
-
 ## 🔗 How to Use This Repository
 
 1. **Browse Solutions**: Navigate through the folders to find Java solutions for LeetCode problems.
