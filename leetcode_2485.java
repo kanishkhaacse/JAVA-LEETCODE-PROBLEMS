@@ -1,7 +1,6 @@
 class Solution {
     public int pivotInteger(int n) 
     {
-        int sum1=0;
         int total =  n*(n+1)/2;
         int leftsum =0;
         if(n==1) return 1;
