@@ -13,14 +13,6 @@ Welcome to my **LeetCode Java Problem-Solving** repository! This project is a pe
 
 ---
 
-## 📂 Repository Structure
-
-The repository is organized into folders by date, with each folder containing solutions for the problems solved on that day.
-
-
-
----
-
 ## 🛠️ Topics and Techniques Covered
 
 This repository includes solutions across a variety of **topics** and **techniques**:
@@ -35,16 +27,6 @@ This repository includes solutions across a variety of **topics** and **techniqu
 - **Sorting and Searching**: QuickSort, MergeSort, Binary Search
 - **Mathematics**: Prime Numbers, Modular Arithmetic, Combinatorics
 
-## 🔗 How to Use This Repository
-
-1. **Browse Solutions**: Navigate through the folders to find Java solutions for LeetCode problems.
-2. **Understand the Code**: Each file contains:
-   - Problem name and description (in comments).
-   - Approach and explanation.
-   - Clean and efficient Java implementation.
-3. **Learn Techniques**: Use the solutions to learn algorithms, optimize your approach, and benchmark performance.
-
----
 
 ## 📬 Contact
 
